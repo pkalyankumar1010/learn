@@ -1,3 +1,3 @@
 # learn
-- [ ] Day 2
-- [ ] Day 1
+- [X] Day 2
+- [X] Day 1
