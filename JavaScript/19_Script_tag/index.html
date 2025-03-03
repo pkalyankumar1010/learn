@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>19_SCript_tag</title>
+    <link href="style.css" rel="stylesheet" type="text/css">
+</head>
+<body>
+    Hello world2
+    <div>This is me</div>
+    <script src="script.js"></script>
+    <script>
+
+        // I can write js code here
+        console.log("Code from inside the tag")
+        // Advantages
+        // 1. Seperation of code or work
+        // 2. Browser caching
+    </script>
+    <script src="script.js">
+        console.log("Trying to executr both") // This is ignored
+    </script>
+</body>
+</html>
