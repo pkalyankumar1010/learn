@@ -43,3 +43,4 @@
     }
     console.log(arr3.reduce(sum)) // same as giving function inside
     ```
+

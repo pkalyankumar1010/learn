@@ -27,3 +27,4 @@
 
 - Following tab can be used to filter warnings , errros and logs
     - ![alt text](image.png)
+

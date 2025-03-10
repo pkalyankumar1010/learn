@@ -17,3 +17,4 @@
         - function like location.href = "https://sumathi.dev"
         
     - Javascript Core
+
